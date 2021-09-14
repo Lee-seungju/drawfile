@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T01:24:56.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="15.2.1" etag="FClKhbg5DUmZu6HyG3Ah" type="github"><diagram id="3jQiQct74O-YrrSJR4Z7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-14T02:03:33.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vP9-xktlZErCK_6rbnkp" version="15.2.1" type="github">
+  <diagram id="3jQiQct74O-YrrSJR4Z7" name="Page-1">
+    <mxGraphModel dx="1684" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-2" value="안방 컴퓨터의 MAC 주소" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-5" value="1번 포트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-6" value="2번 포트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-7" value="3번 포트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-8" value="&lt;span&gt;4번 포트&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-10" value="안방 컴퓨터의 MAC 주소" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-11" value="작은방 컴퓨터의 MAC 주소" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-13" value="1번 포트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-14" value="&lt;span&gt;2번 포트&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-15" value="&lt;span&gt;3번 포트&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-16" value="&lt;span&gt;4번 포트&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="550" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-18" value="인방 컴퓨터의 MAC 주소" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="590" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-19" value="작은방 컴퓨터의 MAC 주소" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="670" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-21" value="1번 포트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="550" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-22" value="192.168.0.100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="590" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-23" value="192.168.0.101" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="630" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;4번 포트&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="670" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-25" value="스위치를 작은방 컴퓨터를 연결한 경우" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-26" value="일반적으로 잘못 이해할 수 있는 스위치의 메모리 구조" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzWyNFRZSATG4LxgQZLB-27" value="스위치에 안방 컴퓨터만 연결된 경우" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" width="300" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
