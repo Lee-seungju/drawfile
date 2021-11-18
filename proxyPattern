@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T01:58:32.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="Mc6kLJREI0V4pkWBhTDq" type="github"><diagram id="_2YslndZo1X6tMy0ZgLd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-18T02:03:31.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="iAQGNqg0u6PMOqSlbyKX" version="15.7.0" type="github">
+  <diagram id="_2YslndZo1X6tMy0ZgLd" name="Page-1">
+    <mxGraphModel dx="832" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q063qhXaWBwufa-HFoDy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q063qhXaWBwufa-HFoDy-1" target="Q063qhXaWBwufa-HFoDy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q063qhXaWBwufa-HFoDy-1" value="&amp;lt;Interface&amp;gt;&lt;br&gt;MemberRepository" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q063qhXaWBwufa-HFoDy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q063qhXaWBwufa-HFoDy-2" target="Q063qhXaWBwufa-HFoDy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q063qhXaWBwufa-HFoDy-2" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q063qhXaWBwufa-HFoDy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q063qhXaWBwufa-HFoDy-5" target="Q063qhXaWBwufa-HFoDy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q063qhXaWBwufa-HFoDy-5" value="MemberRepositoryImpl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="207" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q063qhXaWBwufa-HFoDy-7" value="&amp;lt;Interface&amp;gt;&lt;br&gt;MemberService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q063qhXaWBwufa-HFoDy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q063qhXaWBwufa-HFoDy-9" target="Q063qhXaWBwufa-HFoDy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q063qhXaWBwufa-HFoDy-9" value="MemberServiceImpl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="207" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
