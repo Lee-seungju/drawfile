@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T15:57:52.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rrpZpZG4HxUnrj2AztVK" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-07T16:18:02.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="AGpcV54px0Pekq6N0cx-" version="16.4.3" type="github" pages="2">
   <diagram id="xTNYPFQ5xK185gEe9Ugn" name="Page-1">
     <mxGraphModel dx="473" dy="225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -20,22 +20,25 @@
           <mxGeometry x="120" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TU3TYqR3BvslrUDGfcUa-5" value="Replace team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="100" width="130" height="30" as="geometry" />
+          <mxGeometry x="110" y="100" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TU3TYqR3BvslrUDGfcUa-6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TU3TYqR3BvslrUDGfcUa-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="110" as="sourcePoint" />
-            <mxPoint x="50" y="150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="90" y="130" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rj7jCN-b1VRyX3wQI1TC-1" value="+ leopard.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TU3TYqR3BvslrUDGfcUa-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="139" y="116" as="sourcePoint" />
-            <mxPoint x="238" y="115" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="rj7jCN-b1VRyX3wQI1TC-2" value="+&amp;nbsp;panthers.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rj7jCN-b1VRyX3wQI1TC-3" value="현재 파일 상태" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rj7jCN-b1VRyX3wQI1TC-4" value="현재 깃 커밋 상태" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rj7jCN-b1VRyX3wQI1TC-5" value="이 파일들이 현재 폴더에 없지만, 커밋은 파일이 있는 것으로 알고 있음" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rj7jCN-b1VRyX3wQI1TC-6" value="그렇기 때문에 이 파일을 삭제한 것으로 인식하여 로그를 새로 작성하려고 함" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
